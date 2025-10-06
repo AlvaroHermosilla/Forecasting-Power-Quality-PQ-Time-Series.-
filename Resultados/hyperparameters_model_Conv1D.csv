@@ -1,0 +1,2 @@
+num_layers,Layer Neurons 1,Kernel Size 1,Activation Function 1,learning_rate,Layer Neurons 2,Kernel Size 2,Activation Function 2,Layer Neurons 3,Kernel Size 3,Activation Function 3,Layer Neurons 4,Kernel Size 4,Activation Function 4,Layer Neurons 5,Kernel Size 5,Activation Function 5
+5,124,6,sigmoid,0.025662297584389662,98,7,sigmoid,67,3,sigmoid,70,3,sigmoid,50,5,sigmoid

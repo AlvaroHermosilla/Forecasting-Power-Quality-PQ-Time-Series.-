@@ -1,0 +1,2 @@
+Num Layers,Layer Neurons 1,Activation Function1,learning_rate,Layer Neurons 2,Activation Function2,Layer Neurons 3,Activation Function3,Layer Neurons 4,Activation Function4,Layer Neurons 5,Activation Function5
+5,122,tanh,0.054561901260504066,128,sigmoid,101,sigmoid,59,sigmoid,32,sigmoid
