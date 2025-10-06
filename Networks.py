@@ -1,6 +1,6 @@
 import tensorflow as tf
 import keras_tuner as kt
-from keras.layers import LSTM,GRU
+from keras.layers import LSTM, GRU, Bidirectional, Dense, Conv1D
 
 strategy = tf.distribute.MirroredStrategy(devices=["/gpu:0"])
 #---------------------------------------------------------------
